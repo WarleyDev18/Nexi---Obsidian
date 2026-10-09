@@ -1,0 +1,13 @@
+# Dado real/sensível: só local
+99-Privado/
+
+# Estado pessoal do Obsidian
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/cache
+.trash/
+
+# Claude Code local
+.claude/settings.local.json
+.env
+*.key
